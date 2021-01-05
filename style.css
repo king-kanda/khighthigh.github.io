@@ -12,15 +12,13 @@ section.header{
    
   }
   .header{
-    background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url(".../graduation-cap-with-gold-tassle.jpg");
+    background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("/graduation-cap-with-gold-tassle.jpg");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
-    color:azure;
+    
   }
-  li{
-      color-adjust: red;
-  }
+  
   .about{
       padding: 6rem;
       
